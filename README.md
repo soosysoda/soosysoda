@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/arkapravo-mukherjee-510b52278](www.linkedin.com/in/arkapravo-mukherjee-510b52278)
 
-- ⚡ Fun fact **I am code-a-sexual 🤓**
+- ⚡ Fun fact **I am code-a-philic 🤓**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
