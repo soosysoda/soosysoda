@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Arkapravo Mukherjee</h1>
-<h3 align="center">A passionate AI/ML Enthusiast and Full Stack Developer from India</h3>
+<h3 align="center">A passionate AI/ML Enthusiast, Graphic Designer, Video Editor, Music Producer & Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soosysoda&label=Profile%20views&color=0e75b6&style=flat" alt="soosysoda" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soosysoda" alt="soosysoda" /></a> </p>
 
-- 🔭 I’m currently working on [VDOMASK](https://github.com/soosysoda/vdomask_app)
+- 🔭 I’m currently working on [AI Based restoration of Degraded Images](https://github.com/soosysoda/kla-ps1-team-devroots)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Advanced Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/soosysoda](https://github.com/soosysoda)
 
-- 💬 Ask me about **react, openCV, easyOCR**
+- 💬 Ask me about **Graphics Design, Video Editing, Music Production**
 
 - 📫 How to reach me **arkapravomukherjee7@gmail.com**
 
